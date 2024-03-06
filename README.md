@@ -2,7 +2,7 @@
 
 <p align="center">
  <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="150">
- <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200">
+ <!-- <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"> -->
 
 </p>
 
