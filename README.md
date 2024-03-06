@@ -1,7 +1,7 @@
 # Welcome, I'm Matias Diaz Cecchetto!
 
 <p align="center">
- <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="200">
+ <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="150">
 </p>
 
 I'm a passionate developer from Argentina, specifically from Santiago del Estero. Here are some links and ways to contact me 📫:
