@@ -1,4 +1,4 @@
-### Hi, i'm Matias Diaz Ceccheeto 👋
+### Hi, i'm Matias Diaz Cecchetto 👋
 
 <!--
 **matiasdiaz10/matiasdiaz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
