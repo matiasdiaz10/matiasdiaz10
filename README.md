@@ -1,7 +1,7 @@
 # Welcome, I'm Matias Diaz Cecchetto!
 
 <p align="center">
- <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="300">
+ <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="200">
 </p>
 
 Soy un desarrollador de Argentina - Santiago del Estero, estas son mi redes y contactos 📫
