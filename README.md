@@ -9,7 +9,8 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
   <a href="https://github.com/tuperfil" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" /></a>&nbsp;&nbsp;
 </p>
 
-![Coding Animation](https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif)
+<img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="300">
+
 
 
 
