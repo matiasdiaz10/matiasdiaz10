@@ -1,7 +1,7 @@
 # Welcome, I'm Matias Diaz Cecchetto!
 
 <p align="center">
- <!-- <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="150"> -->
+ <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="150">
  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200">
 
 </p>
@@ -15,15 +15,20 @@ I'm a passionate developer from Argentina, specifically from Santiago del Estero
 
 I'm a technology enthusiast with experience in ✨
 
-- HTML: <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="30"/>
-- CSS: <img src="https://img.icons8.com/color/48/000000/css3.png" width="30"/>
-- JavaScript: <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="30"/>
-- Python: <img src="https://img.icons8.com/color/48/000000/python.png" width="30"/>
-- PHP: <img src="https://img.icons8.com/officel/40/000000/php-logo.png" width="30"/>
-- Laravel: <img src="https://img.icons8.com/ios/50/000000/laravel.png" width="30"/>
-- Angular: <img src="https://img.icons8.com/color/48/000000/angularjs.png" width="30"/>
-- Node.js: <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30"/>
-- MySQL: <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30"/>
-- Git/GitHub: <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="30"/>
-- Linux: <img src="https://img.icons8.com/color/48/000000/linux.png" width="30"/>
-- Vue.js: <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="30"/>
+- HTML: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+- CSS: <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+- JavaScript: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+- TypeScript: <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+- Python: <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+- PHP: <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+- Laravel: <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+- Angular: <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+- Node.js: <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+- MySQL: <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=whit"/>
+- MariaDB: <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+- Git/GitHub: <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+- GitLab: <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+- Linux: <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+- Vue.js: <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+- Haskell: <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
+- JSON: <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
