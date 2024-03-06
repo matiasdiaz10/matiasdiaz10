@@ -15,7 +15,8 @@ Soy un desarrollador apasionado por la tecnología, con experiencia en...
 
 <!-- GIF o Imagen con Animación -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26DNflkwei8sAYtIs/giphy.gif" width="300" />
+  <!-- <img src="https://media.giphy.com/media/26DNflkwei8sAYtIs/giphy.gif" width="300" /> -->
+  <iframe src="https://giphy.com/embed/liRTgRfK9XljrH2EFt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-the-space-liRTgRfK9XljrH2EFt">via GIPHY</a></p>
 </p>
 
 <!-- Badges de Habilidades -->
