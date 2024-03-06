@@ -1,6 +1,6 @@
 # Welcome, I'm Matias Diaz Cecchetto!
 <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="300">
-Soy un desarrollador de **Argentina - Santiago del Estero**, estas son mi redes y contactos  **StackEdit**
+Soy un desarrollador de Argentina - Santiago del Estero, estas son mi redes y contactos
 <p align="center">
   <a href="https://www.linkedin.com/in/matias-diaz-cecchetto-73887a228/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>&nbsp;&nbsp;
   <a href="https://github.com/matiasdiaz10" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" /></a>&nbsp;&nbsp;
