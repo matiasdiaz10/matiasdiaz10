@@ -13,7 +13,7 @@ Soy un desarrollador de Argentina - Santiago del Estero, estas son mi redes y co
 
 Soy un apasionado en esta profesión y estas son algunas de mis aptitudes ✨
 
-
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="30"/>
 
 
 
