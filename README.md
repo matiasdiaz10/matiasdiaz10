@@ -15,7 +15,8 @@ Soy un desarrollador apasionado por la tecnología, con experiencia en...
 
 <!-- GIF o Imagen con Animación -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26DNflkwei8sAYtIs/giphy.gif" width="300" />
+  <!-- <img src="https://media.giphy.com/media/26DNflkwei8sAYtIs/giphy.gif" width="300" /> -->
+  ![Coding Animation](https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif)
 </p>
 <!-- Badges de Habilidades -->
 <p align="center">
