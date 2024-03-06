@@ -4,12 +4,14 @@
  <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="200">
 </p>
 
-Soy un desarrollador de Argentina - Santiago del Estero, estas son mi redes y contactos 📫
+I'm a passionate developer from Argentina, specifically from Santiago del Estero. Here are some links and ways to contact me 📫:
 
   <a href="https://www.linkedin.com/in/matias-diaz-cecchetto-73887a228/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>&nbsp;&nbsp;
   <a href="https://github.com/matiasdiaz10" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" /></a>&nbsp;&nbsp;
 
-Soy un apasionado en esta profesión y estas son algunas de mis aptitudes ✨
+## Acerca de mí
+
+I'm a technology enthusiast with experience in ✨
 
 -   HTML: <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="30"/>
 -   CSS: <img src="https://img.icons8.com/color/48/000000/css3.png" width="30"/>
